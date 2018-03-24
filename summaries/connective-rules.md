@@ -6,7 +6,7 @@
 - [Rules for ↔ (equivalent)](#rule-equivalent)
 
 <a name="rule-and"></a>
-### Rules for ⋀ (and)
+## Rules for ⋀ (and)
 
 #### Introduction
 ```java
@@ -23,7 +23,7 @@
 ```
 
 <a name="rule-or"></a>
-### Rules for ⋁ (or)
+## Rules for ⋁ (or)
 
 #### Introduction
 ```java
@@ -45,7 +45,7 @@
 Compare cases.
 
 <a name="rule-arrow"></a>
-### Rules for →
+## Rules for →
 
 #### Introduction
 ```java
@@ -67,7 +67,7 @@ If 𝞅 is a supposition, 𝞅 can be underlined.
 ```
 
 <a name="rule-not"></a>
-### Rules for ¬ (not)
+## Rules for ¬ (not)
 
 #### Introduction
 ```java
@@ -87,7 +87,7 @@ If 𝞅 is a supposition, 𝞅 can be underlined.
 ```
 
 <a name="rule-bottom"></a>
-### Rules for ⊥ (bottom/false)
+## Rules for ⊥ (bottom/false)
 
 #### RAA (Reductio Ad Absurdum)
 ```java
